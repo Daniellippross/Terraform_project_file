@@ -8,8 +8,8 @@ variable "db-name" {
   default = "daniel-db-"
 }
 variable "app_ami_id" {
-  default = "ami-01ff995a60d0dba85"
+  default = "ami-09f0478228932d57d"
 }
 variable "db_ami_id" {
-  default = "ami-0c1c20912b942fb91"
+  default = "ami-049b0eb3c48e9b0e3"
 }
